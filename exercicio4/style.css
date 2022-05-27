@@ -1,0 +1,179 @@
+.section1 {
+    background-color: #f3f3f3;
+}
+
+.button-section-1 {
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    padding: 7px 0;
+    padding-top: 5px;
+    border-top: 2px solid transparent;
+}
+
+.button-section-1 a {
+    text-decoration: none;
+    border-right: 1px solid #dddddd;
+    padding: 0 7px;
+}
+
+.button-section-1:hover {
+    border-top: 2px solid;
+}
+
+.red {
+    color: #c4170c;
+}
+
+.red:hover {
+    color: #c4170c;
+    /* border-top: 2px solid #c4170c; */
+}
+
+.green {
+    color: #06aa48;
+}
+
+.green:hover {
+    color: #06aa48;
+    /* border-top: 2px solid #06aa48; */
+}
+
+.orange {
+    color: #ff6700;
+}
+
+.orange:hover {
+    color: #ff6700;
+    /* border-top: 2px solid #ff6700; */
+}
+
+.red2 {
+    color: #fb0234;
+}
+
+.red2:hover {
+    color: #fb0234;
+    /* border-top: 2px solid #fb0234; */
+
+}
+
+.blue {
+    color: #1e4c9a;
+}
+
+.blue:hover {
+    color: #1e4c9a;
+    /* border-top: 2px solid #1e4c9a; */
+}
+
+.light-blue {
+    color: #0669de;
+}
+
+.light-blue:hover {
+    color: #0669de;
+    /* border-top: 2px solid #0669de; */
+}
+
+.button-assine{
+    color: #999999;
+    font-size: 12px;
+    text-decoration: none;
+    transition: color 150ms ease-in-out;
+    text-transform: uppercase;
+    margin-right: 10px;
+    
+}
+
+.button-assine:hover{
+    transition: color 150ms ease-in-out;
+}
+
+.button-entrar{
+    text-decoration: none;
+    background-color: #fff;
+    border-radius: 5px;
+    padding: 0 5px;
+    text-transform: uppercase;
+    font-size: 12px;
+    color: #666666;
+}
+
+.button-entrar:hover{
+    background-color: #fff;
+    transition: color 150ms ease-in-out;
+}
+
+.navebar-g1{
+    background-color: #c4170c !important;
+}
+
+.section2{
+    padding: 40px 0;
+}
+.img-anuncio{
+    max-width: 100%;
+}
+
+.card-esquerdo-section3{
+    height: 600px;
+    border: 1px solid #e1e1e1;
+    border-radius: 5px;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    
+}
+.categoria{
+    color: #333333;
+    font-size: 16px;
+    font-weight: 900;
+}
+
+.titulo{
+    color: #c4170c;
+    font-size: 40px;
+    line-height: 40px;
+    font-weight: bolder;
+    margin-bottom: 20px;
+}
+
+.descricao{
+    font-size: 16px;
+    color: #333333;
+    font-weight: 600;
+    margin-bottom: 150px;
+}
+
+
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.text-center{
+    text-align: center;
+}
+
+.card-direito-section3{
+    height: 300px;
+    background-color: rgba(0, 0, 0, 0.2);
+    background-image: url("https://s2.glbimg.com/12w_0XsKVKPpa5dvMIgsz6CPLVg=/0x0:1024x768/1008x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/m/e/1UTAgzSxO7laJCCmauhw/mauricio-ferraz-e-rodrigo-mussi.jpeg");
+    background-position: center center;
+    background-size: cover;
+}
+
+
+
+.categoria2{
+    color: white;
+    font-size: 32px;
+    font-weight: 600;
+}
+
+.titulo2{
+    color: white;
+    font-size: 32px;
+    font-weight: 900;
+    line-height: 32px;
+}
